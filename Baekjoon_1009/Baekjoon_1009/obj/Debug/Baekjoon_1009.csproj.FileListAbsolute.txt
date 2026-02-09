@@ -1,7 +1,0 @@
-C:\Users\user\Documents\GitHub\Practice_inProejct\Baekjoon_1009\Baekjoon_1009\bin\Debug\Baekjoon_1009.exe.config
-C:\Users\user\Documents\GitHub\Practice_inProejct\Baekjoon_1009\Baekjoon_1009\bin\Debug\Baekjoon_1009.exe
-C:\Users\user\Documents\GitHub\Practice_inProejct\Baekjoon_1009\Baekjoon_1009\bin\Debug\Baekjoon_1009.pdb
-C:\Users\user\Documents\GitHub\Practice_inProejct\Baekjoon_1009\Baekjoon_1009\obj\Debug\Baekjoon_1009.csproj.AssemblyReference.cache
-C:\Users\user\Documents\GitHub\Practice_inProejct\Baekjoon_1009\Baekjoon_1009\obj\Debug\Baekjoon_1009.csproj.CoreCompileInputs.cache
-C:\Users\user\Documents\GitHub\Practice_inProejct\Baekjoon_1009\Baekjoon_1009\obj\Debug\Baekjoon_1009.exe
-C:\Users\user\Documents\GitHub\Practice_inProejct\Baekjoon_1009\Baekjoon_1009\obj\Debug\Baekjoon_1009.pdb
